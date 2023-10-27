@@ -1,0 +1,10 @@
+---
+- :name: gengar
+  :type: ghost
+  :level: 100
+- :name: sceptile
+  :type: grass
+  :level: 100
+- :name: arceus
+  :type: normal
+  :level: 100
